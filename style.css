@@ -1,0 +1,28 @@
+body{
+    font-family: 'Pacifico', cursive;
+}
+
+.heading_div p{
+    color: violet;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+
+#start{
+    font-family: 'Rubik Dirt';
+    color: blue;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 5px; 
+ }
+ 
+ #copy_right_footer{
+     position: fixed;
+     color: lightgreen;
+     bottom: 0;
+     width: 100%;
+     font-size: 30px;
+     background-color: grey;
+     text-align: center;
+     text-shadow: 5px 5px 5px lightblue;
+ }
